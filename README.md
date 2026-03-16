@@ -26,11 +26,8 @@ https://github.com/users/gustavogordoni/projects/3
 ---
 
 ## Autor(es)
-<!--
-**Cauã de Lima Santana**
-**Gustavo Gordoni**
-**Mariana Pires Almeida**
--->
-**Gustavo Gordoni**
+- **[Cauã de Lima Santana](https://github.com/DevCauaSantana)**
+- **[Gustavo Luiz Gordoni](https://github.com/gustavogordoni)**
+- **[Mariana Pires Almeida](https://github.com/mp-almeida)**
 
 Aluno(s) do curso de Bacharelado em Sistemas de Informação
